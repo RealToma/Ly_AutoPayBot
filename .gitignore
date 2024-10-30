@@ -1,0 +1,8 @@
+node_modules
+data
+env.ts
+
+# VSCode configuration
+.vscode
+# Webstorm configuration
+.idea
